@@ -19,7 +19,7 @@ Can be installed as a PWA
 
 ## [Deployment](#deployment)
 
-
+Future Development: find out why app will not deploy to heroku
 
 ## [Installation](#table-of-contents)
 ```git clone```
